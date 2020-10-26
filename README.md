@@ -42,4 +42,4 @@ Things you may want to cover:
 5. Now run:
 `rails server`
 
-6. Finally open up a web browser and type `localhost:300`
+6. Finally open up a web browser and type `localhost:3000`
