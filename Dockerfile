@@ -1,4 +1,4 @@
-from ruby:2.7.2-alpine
+from ruby:2.6.6-alpine
 
 WORKDIR /usr/src/datavnew
 
